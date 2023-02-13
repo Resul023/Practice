@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\bin\Debug\net7.0\ConsumerExchangeTopic.exe
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\bin\Debug\net7.0\ConsumerExchangeTopic.deps.json
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\bin\Debug\net7.0\ConsumerExchangeTopic.runtimeconfig.json
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\bin\Debug\net7.0\ConsumerExchangeTopic.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\bin\Debug\net7.0\ConsumerExchangeTopic.pdb
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.AssemblyInfo.cs
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.csproj.CopyComplete
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\refint\ConsumerExchangeTopic.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.pdb
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ConsumerExchangeTopic.genruntimeconfig.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeTopic\obj\Debug\net7.0\ref\ConsumerExchangeTopic.dll

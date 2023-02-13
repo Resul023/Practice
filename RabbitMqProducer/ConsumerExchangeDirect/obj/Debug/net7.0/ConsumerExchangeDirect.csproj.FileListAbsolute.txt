@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\bin\Debug\net7.0\ConsumerExchangeDirect.exe
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\bin\Debug\net7.0\ConsumerExchangeDirect.deps.json
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\bin\Debug\net7.0\ConsumerExchangeDirect.runtimeconfig.json
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\bin\Debug\net7.0\ConsumerExchangeDirect.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\bin\Debug\net7.0\ConsumerExchangeDirect.pdb
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.AssemblyInfo.cs
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.csproj.CopyComplete
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\refint\ConsumerExchangeDirect.dll
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.pdb
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ConsumerExchangeDirect.genruntimeconfig.cache
+C:\Users\User\Desktop\RabbitMq\RabbitMqProducer\ConsumerExchangeDirect\obj\Debug\net7.0\ref\ConsumerExchangeDirect.dll
